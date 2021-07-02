@@ -1,0 +1,42 @@
+.bobuxgreen{
+color: green;
+font-family: arial;
+text-align: center;
+}
+
+.bobuxgreencool{
+	color: green;
+	font-family: arial;
+	text-align: center;
+	font-size:25px;
+}
+
+.bobuxred{
+	color: red;
+	font-family: arial;
+	text-align: center;
+	font-size: 25px;
+}
+
+.bobuxarial{
+	color: white;
+	font-family: arial;
+}
+
+.bobuxarissa{
+	color: deepskyblue;
+	font-family: arial;
+	font-style: italic;
+	font-size: 17px;
+	position: absolute; bottom: 0; right: 10;
+}
+
+.bobuxcenter{
+	border: 5px solid #FFFF00;
+	display: flex;
+	justify-content: center;
+}
+
+body{
+background-color: #1f1b24;
+}
